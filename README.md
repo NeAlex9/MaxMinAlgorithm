@@ -1,3 +1,1 @@
 # MaxMin algorithm
-
-A
