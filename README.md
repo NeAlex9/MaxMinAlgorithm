@@ -1,1 +1,3 @@
 # MaxMin algorithm
+
+A
